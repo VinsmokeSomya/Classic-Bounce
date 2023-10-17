@@ -8,9 +8,6 @@ Bounce is a clone of Nokia original bounce game made with python and pygame. I h
 
 ![Alt text](app.png?raw=true "Bounce")
 
-## How to Download
-
-Download this project from here [Download Bounce](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Bounce)
 
 ## Requirements
 
