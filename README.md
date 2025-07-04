@@ -1,4 +1,14 @@
-# 🔴 Bounce
+<div align="center">
+  🚩🧡🕉️ || जय श्री राम || 🕉️🧡🚩
+</div>
+
+---
+
+<div align="center">
+  <h1 style="border-bottom: none;">
+    🔴 Bounce
+  </h1>
+</div> 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
